@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "611199668526",
+    "firebase_url": "https://to-do-list-22811.firebaseio.com",
+    "project_id": "to-do-list-22811",
+    "storage_bucket": "to-do-list-22811.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611199668526:android:52180751b4079e14c86abf",
+        "android_client_info": {
+          "package_name": "com.conkermobile.to_do_list"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "611199668526-pir9nmq3rta3dqhn6s00aa3beor8ufli.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXaXLvnFyqY9AX9cIoKbF4EvMSZWEDX9g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "611199668526-pir9nmq3rta3dqhn6s00aa3beor8ufli.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
