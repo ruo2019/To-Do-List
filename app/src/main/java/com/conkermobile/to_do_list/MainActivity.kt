@@ -14,6 +14,7 @@ class MainActivity : AppCompatActivity() {
         findViewById<FloatingActionButton>(R.id.FloatingActionButton).setOnClickListener { _ ->
             var intent = Intent(this, CreateActivity::class.java)
             startActivity(intent)
+            finish()
         }
     }
 }
