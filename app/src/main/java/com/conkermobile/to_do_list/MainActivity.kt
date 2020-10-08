@@ -11,9 +11,6 @@ import com.conkermobile.to_do_list.util.Items
 
 class MainActivity : AppCompatActivity() {
 
-    private val firebaseAuth = FirebaseAuth.getInstance().currentUser?.uid
-    private val firebaseDB = FirebaseFirestore.getInstance()
-
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
